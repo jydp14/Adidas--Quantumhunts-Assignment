@@ -1,0 +1,85 @@
+h6{
+  text-decoration: none;
+  font-style: oblique;
+  text-align-last:inherit;
+}
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.logo{
+  padding: 5px 10px;
+}
+.carousel-inner{
+    height: 600px;
+}
+.carousel-item, img{
+  height: 100% !important;
+   width:  100% !important;
+}
+
+.pop-heading{
+  text-align: center;
+  text-decoration: none;
+  padding-top: 50px;
+  font-style: oblique;
+  text-align-last:inherit;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.pop-right{
+  margin-left: 25%;
+  margin-bottom: 3%;
+  /* align-items: center; */
+}
+
+.btn-light{
+  padding: 1rem;
+  margin: .2rem;
+  text-align: center;
+}
+.product-heading{
+  text-align: left;
+  text-decoration: none;
+  padding-top: 50px;
+  font-style: oblique;
+  text-align-last:inherit;
+  margin-left: 10%;
+}
+.products{
+  width: 80%;
+  margin-left: 10%;
+  padding-top: 10px;
+}
+.buy-btn{
+  padding: 3px 14px;
+}
+.about{
+  /* background-color: #EEEEEE; */
+  padding: 20px 50px;
+  margin: 10% 0;
+}
+.grey-section{
+  background-color: #EEEEEE;
+}
+.footer-links{
+  margin: 5%;
+}
+.footer-links,ul{
+  list-style-type: none;
+}
+.heading{
+  text-decoration-style: double;
+}
+
+.footer-icon{
+  margin :0  15px 20px;
+}
+.footer{
+  background-color: #444444;
+  color: white;
+  padding: 3%;
+}
+.foot{
+  text-align: center;
+}
